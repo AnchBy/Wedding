@@ -57042,8 +57042,8 @@ return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.rt.prototype={
 aw(){return new A.G6()}}
 A.G6.prototype={
-Z(a){var s="assets/images/1.jpg",r=null,q=t.nA
-return A.YV(B.ee,A.d([new A.k6(B.bf,r,r,A.a6I(B.vn,new A.kb(s)),r),new A.k6(B.bf,r,r,new A.yH(B.hW,B.cn,B.fI,B.c0,r,B.ue,r,0,A.d([A.YN(r,16,r),B.JJ,A.YN(r,16,r),new A.Cg(B.hV,B.oo,B.fI,B.c_,r,B.ue,r,0,A.d([A.a9s(A.a6I(r,new A.kb(s)),64),A.YN(r,r,8),A.a9s(A.a6I(r,new A.kb(s)),64)],q),r),A.YN(r,16,r),B.JI],q),r),r)],q),B.ho)}}
+Z(a){var s=null,r=t.nA
+return A.YV(B.ee,A.d([new A.k6(B.bf,s,s,A.a6I(B.vn,new A.kb("assets/images/1.jpg")),s),new A.k6(B.bf,s,s,new A.yH(B.hW,B.cn,B.fI,B.c0,s,B.ue,s,0,A.d([A.YN(s,16,s),B.JJ,A.YN(s,16,s),new A.Cg(B.hV,B.oo,B.fI,B.c_,s,B.ue,s,0,A.d([A.a9s(A.a6I(s,new A.kb("assets/images/2.jpg")),64),A.YN(s,s,8),A.a9s(A.a6I(s,new A.kb("assets/images/3.jpg")),64)],r),s),A.YN(s,16,s),B.JI],r),s),s)],r),B.ho)}}
 A.DI.prototype={
 Z(a){var s=null
 return new A.ry(B.KE,"Wedding join",A.a7p(s,s,"BadScript",s),!1,s)}}
