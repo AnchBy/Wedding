@@ -35719,7 +35719,7 @@ break
 case 1:s.w5(n.dy)
 break}}q=this.gSi()
 p=this.gS7()
-l=A.aiu(B.vo,this.r,o)
+l=A.aiu(B.vp,this.r,o)
 return new A.pj(o,new A.fe(r,o,o,o,o,o,B.bM),new A.fe(o,l,o,o,o,o,B.bM),new A.aD(q,p,q,p),B.aK,B.bo,o,o)}}
 A.O3.prototype={
 C(){return"DynamicSchemeVariant."+this.b}}
@@ -57320,7 +57320,7 @@ A.ry.prototype={
 au(){return new A.Gf()}}
 A.Gf.prototype={
 Z(a){var s=null,r=t.nA
-return A.Z0(B.eh,A.d([new A.k5(B.ad,s,s,A.D0(new A.r6(new A.ka("assets/images/4.jpg"),B.vp,s),1/0,1/0),s),new A.k5(B.ad,s,s,new A.yO(B.hX,B.cp,B.fI,B.c3,s,B.uf,s,0,A.d([A.D0(s,16,s),B.JL,A.D0(s,16,s),new A.Cn(B.hW,B.oo,B.fI,B.c2,s,B.uf,s,0,A.d([A.a9f(A.a9v(new A.ka("assets/images/2.jpg"),64)),A.D0(s,s,8),A.a9f(A.a9v(new A.ka("assets/images/3.jpg"),64))],r),s),A.D0(s,16,s),B.JK],r),s),s)],r),B.ho)}}
+return A.Z0(B.eh,A.d([new A.k5(B.ad,s,s,A.D0(new A.r6(new A.ka("assets/images/b2.jpg"),B.vo,s),1/0,1/0),s),new A.k5(B.ad,s,s,new A.yO(B.hX,B.cp,B.fI,B.c3,s,B.uf,s,0,A.d([A.D0(s,16,s),B.JL,A.D0(s,16,s),new A.Cn(B.hW,B.oo,B.fI,B.c2,s,B.uf,s,0,A.d([A.a9f(A.a9v(new A.ka("assets/images/2.jpg"),64)),A.D0(s,s,8),A.a9f(A.a9v(new A.ka("assets/images/3.jpg"),64))],r),s),A.D0(s,16,s),B.JK],r),s),s)],r),B.ho)}}
 A.DQ.prototype={
 Z(a){var s=null
 return new A.rD(B.KF,"Wedding join",A.a7s(s,s,"BadScript",s),!1,s)}}
@@ -58972,8 +58972,8 @@ B.vl=new A.pB(null,null,null,null,null,null,null)
 B.vm=new A.pC(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.vn=new A.pD(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.hZ=new A.aD(1/0,1/0,1/0,1/0)
-B.vo=new A.pF(2,"cover")
-B.vp=new A.pF(3,"fitWidth")
+B.vo=new A.pF(0,"fill")
+B.vp=new A.pF(2,"cover")
 B.vq=new A.pF(6,"scaleDown")
 B.i_=new A.pG(0,"tight")
 B.vr=new A.pG(1,"max")
@@ -61148,7 +61148,7 @@ B.jl=s([B.EZ],t.o5)
 B.J1=new A.n(!0,B.l,null,null,null,null,32,B.dh,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jl,null,null,null)
 B.JK=new A.ur("Lisa and Vlad",null,B.J1,B.cG,null)
 B.Hh=new A.n(!0,B.l,null,null,null,null,48,B.dh,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jl,null,null,null)
-B.JL=new A.ur("Forever/nTogether",null,B.Hh,B.cG,null)
+B.JL=new A.ur("Forever\nTogether",null,B.Hh,B.cG,null)
 B.Mc=new A.a_b(0,"system")
 B.JM=new A.uC(null)
 B.u3=new A.Dw(0,"clamp")
