@@ -1,11 +1,11 @@
 {
     "name": "wed_4",
-    "short_name": "wed_4",
+    "short_name": "Wedding Invite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Lisa and Vlad.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
