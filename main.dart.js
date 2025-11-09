@@ -79180,7 +79180,7 @@ A.yb.prototype={
 am(){return new A.QU()}}
 A.QU.prototype={
 a3T(){if(A.aJW("https://www.bzpi.by/")==null)return
-var s=window.open("https://www.bzpi.by/","_blank")
+var s=window.open("https://www.bzpi.by/","_self")
 A.aKj(s)},
 T(a){var s,r,q,p,o,n=null,m=A.tA(A.av_(n,B.cQ,n,n,new A.jo("assets/images/20.jpg",n,n),n,n),1/0,1/0),l=A.nX(n,n,B.H,B.j.nf(0.05),n,n,n,1/0,n,n,n,n,1/0),k=A.nX(n,new A.eE(B.hl,B.Sp,n),B.H,n,n,n,n,n,n,n,n,n,n),j=B.b2.nf(0.6),i=A.aI3(2026,8,15,12,0,0,0,0,!1)
 if(i==null)i=864e14
