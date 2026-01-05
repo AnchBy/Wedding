@@ -67692,7 +67692,7 @@ return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.v8.prototype={
 al(){return new A.Lx()}}
 A.Lx.prototype={
-YT(){var s="https://docs.google.com/forms/d/e/1FAIpQLSfvKvIFXUCjIrpmZlzH9w7PEz5n7c1lt8FR0MNnCKIPTXli1g/viewform?usp=dialog"
+YT(){var s="https://www.bzpi.by/"
 if(A.awW(s)==null)return
 window.location.href=s},
 ga7g(){$.af.toString
