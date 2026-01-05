@@ -35,8 +35,13 @@
   <title>Приглашение на свадьбу!</title>
   
   <link rel="manifest" href="manifest.json">
-  <script src="https://telegram.org/js/telegram-web-app.js"></script>
-
+   <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        if (window.Telegram && Telegram.WebApp) {
+          Telegram.WebApp.disableVerticalSwipes();
+        }
+      });
+    </script>
 </head>
 
 <body>
@@ -44,3 +49,4 @@
 </body>
 
 </html>
+
