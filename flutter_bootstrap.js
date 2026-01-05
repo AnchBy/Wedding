@@ -38,10 +38,6 @@ _flutter.buildConfig = {"engineRevision":"1527ae0ec577a4ef50e65f6fefcfc1326707d9
 
 _flutter.loader.load({
   serviceWorkerSettings: {
-<<<<<<< HEAD
-    serviceWorkerVersion: "3225652334"
-=======
-    serviceWorkerVersion: "1767112068"
->>>>>>> parent of cdbc626 (quiz)
+    serviceWorkerVersion: "1454404549"
   }
 });
